@@ -1,4 +1,4 @@
-[
+{ "items":[
     {   "dag": "Tweede zondag van Pasen",
         "datum": "2020,3,12,10,30",
         "locatie": "Augustinuskerk",
@@ -184,3 +184,4 @@
     }
     
 ]
+}
